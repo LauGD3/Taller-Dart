@@ -1,0 +1,2 @@
+Muestre en pantalla su nombre, sexo, edad, salario (incluyendo centavos) y si tiene o no vehículo
+de transporte.

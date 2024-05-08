@@ -1,0 +1,2 @@
+Solicite su nombre, sexo, edad, salario (incluyendo centavos), si tiene o no vehículo de transporte
+y; lo muestre en pantalla.
