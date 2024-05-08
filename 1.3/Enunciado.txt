@@ -1,0 +1,2 @@
+Solicite dos números y los sume, como resultado debe mostrar en pantalla (La suma del número
+A con el número B es: resultado).

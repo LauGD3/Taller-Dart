@@ -1,0 +1,2 @@
+Solicite dos números y los reste, como resultado debe mostrar en pantalla (La diferencia del
+número A con el número B es: resultado).

@@ -1,0 +1,4 @@
+Muestre un menú: Amarillo = 1, azul = 2, rojo = 3. Luego solicite al usuario digitar dos de estos
+números para descifrar la combinación. Ejemplo: 1 y 3, el resultado mostrado en pantalla (su
+combinación es naranja). Recuerde que el usuario puede colocar el mismo número dos veces y
+números fuera del rango.

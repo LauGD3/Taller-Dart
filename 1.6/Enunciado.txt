@@ -1,0 +1,3 @@
+Solicite dos números y los divida, como resultado debe mostrar en pantalla (La división del número
+A entre el número B es: resultado). Si el denominador es cero, deben salir en pantalla: Imposible
+la división por 0.
