@@ -1,0 +1,5 @@
+Permita jugar guayabita, primero se ingresarán la cantidad de usuarios, el acumulado se debe
+mostrar antes de cada tiro, cada jugador tendrá un tiro inicial si este es 1 o 6 se pierde y debe
+colocar una moneda en el acumulado, si es otro número apostará hasta el máximo del acumulado,
+ganará el total apostado si el segundo tiro es mayor que el primer tiro de lo contrario colocará en
+el acumulado lo apostado, el juego se repetirá siempre y cuando el acumulado sea mayor que 0.

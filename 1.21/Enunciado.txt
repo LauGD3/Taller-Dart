@@ -1,0 +1,3 @@
+Solicite 2 números por teclado, luego indique al usuario si desea la serie par o impar, después
+muestre en pantalla la serie par o impar según la elección desde el número menor que se ingresó
+al inicio hasta el número mayor

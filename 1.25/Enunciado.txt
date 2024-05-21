@@ -1,0 +1,3 @@
+En un vector de x posiciones (x lo define el usuario), solicite al usuario con un ciclo para el llenado
+de este, luego ordene el vector en orden ascendente o descendente según lo decida el usuario y
+luego lo imprima.

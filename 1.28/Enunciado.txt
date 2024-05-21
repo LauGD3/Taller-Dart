@@ -1,0 +1,3 @@
+Muestre un menú de funciones para sumar con las siguientes opciones: 1. Sin parámetros y sin
+retorno de valor; 2. Con parámetros y sin retorno de valor; 3. Sin parámetros y con retorno de
+valor; 4. Con parámetros y con retornos de valor

@@ -1,0 +1,3 @@
+Permite seleccionar en un menú, 10 operaciones matemáticas básicas: suma, resta,
+multiplicación, división, módulo, cuadrado, raíz cuadrada, potencia, porcentaje y un número
+aleatorio.

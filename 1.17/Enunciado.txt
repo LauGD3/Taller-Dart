@@ -1,0 +1,1 @@
+Encuentre el factorial de un número del 0 al 12, si lo supera, el factorial es infinito.

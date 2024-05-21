@@ -1,0 +1,5 @@
+Encuentre el tipo de triángulo que se tiene, mostrando un menú que pida si se ingresaran ángulos
+o lados y se dé la opción para escoger uno de los dos. Si se selecciona por ángulos la suma de
+los 3 ángulos debe ser 180° y si se selecciona por lados, la suma de los dos lados más cortos debe ser mayor a la longitud del lado más largo, para que sean un triángulo. Y mostrar en pantalla
+su triángulo es: equilátero, isósceles o escaleno; rectángulo, acutángulo u obtusángulo.
+Recuerde que no existen lados ni ángulos menores o iguales a cero

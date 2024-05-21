@@ -1,0 +1,2 @@
+Solicite tres números y que según la decisión del usuario los organice de forma ascendente o
+descendente.

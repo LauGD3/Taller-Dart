@@ -1,0 +1,1 @@
+Muestre en pantalla la tabla de multiplicar del número indicado por el usuario (del 1 al 10).

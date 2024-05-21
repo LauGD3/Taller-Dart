@@ -1,0 +1,2 @@
+Encuentre el área y perímetro del material necesario para construir un cilindro con tapa también
+que volumen ocupara, con sus respectivas unidades y restricciones.

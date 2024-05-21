@@ -1,0 +1,2 @@
+Solicite una acción y que muestre 6 números aleatorios del 1 al 45 sin repetirse y organizados de
+menor a mayor (baloto).

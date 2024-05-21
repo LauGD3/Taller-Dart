@@ -1,0 +1,2 @@
+Llene un vector de 10 posiciones con un ciclo para, luego imprima con otro ciclo el vector
+mostrando el índice, la posición y el valor.

@@ -1,0 +1,1 @@
+Solicite un número, lo descomponga y muestre en pantalla cuántos dígitos tiene.

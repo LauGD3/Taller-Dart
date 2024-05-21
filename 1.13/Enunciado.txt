@@ -1,0 +1,3 @@
+Solicite por teclado el nombre de un artículo, su valor de unidad, cantidad a llevar, y si es o no de
+la canasta familiar, como resultado debe mostrar el total del valor de los productos a llevar y si no
+son de la canasta familiar se le suma el IVA 19%.

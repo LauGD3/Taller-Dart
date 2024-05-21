@@ -1,0 +1,5 @@
+Con 2 matrices, la primera de 4 por 10 con 10 productos con el ID, nombre de producto, precio
+unidad, y si tiene o no IVA, la segunda se debe llenar dinámicamente, debe ser de 11 por 7 con
+el ítem, ID, nombre producto, cantidad valor unidad, IVA, valor total. Se creará una factura el
+programa solicitará en consola que digite el id del producto que desea llevar, luego la cantidad y
+si desea llevar otro producto, puede llevar hasta 10 productos el usuario, luego imprimirá la factura

@@ -1,0 +1,4 @@
+Muestre dos números aleatorios del 1 al 6 (como los dados), de sacar dos números pares (1,1 o
+2,2 o 3,3 o 4,4 o 5,5 o 6,6) saldrá un mensaje en pantalla que dice lanzar de nuevo, de lazar en
+dos ocasiones más y de nuevo sean pares, saldrá un mensaje en pantalla ¡Saca una ficha!, de
+no sacar pares saldrá en pantalla un mensaje ¡Lanza de nuevo! (como en el juego parques).

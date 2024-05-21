@@ -1,0 +1,4 @@
+Muestre un menú para la selección (1. Triángulo, 2. Rectángulo y 3. Círculo); luego pida los datos
+necesarios para la solución y muestre en pantalla el nombre de la figura, su área en unidades
+cuadradas y su perímetro en unidades simples. Recuerde que no existen áreas o perímetros
+menores o iguales a cero
