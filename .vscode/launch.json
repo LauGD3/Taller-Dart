@@ -10,7 +10,7 @@
       "name": "Dart & Flutter",
       "request": "launch",
       "type": "dart",
-      "program": "${workspaceFolder}/1.22/Ejercicio.dart"
+      "program": "${workspaceFolder}/1.27/Ejercicio.dart"
     }
   ]
 }
